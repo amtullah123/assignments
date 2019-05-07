@@ -87,7 +87,7 @@ font-size: 36px;
   
   height:250px;
 }
-.main section{
+.main article{
   
   padding: 3px;
  
@@ -102,7 +102,7 @@ font-size: 36px;
   color:brown;
   text-align: center;
 }
-section p{
+article p{
   font-size:18px;
   font-weight: 500;
   margin-top: 15px;
@@ -120,7 +120,7 @@ section p{
   width:290px;
     height:250px;
 }
-.main section{
+.main article{
  
   padding: 3px;
   
@@ -135,7 +135,7 @@ section p{
   color:brown;
   text-align: center;
 }
-.section p{
+.article p{
   font-size:18px;
   font-weight: 500;
   margin-top: 15px;
@@ -154,7 +154,7 @@ section p{
   
   height:250px;
 }
-.main section{
+.main article{
   
   padding: 3px;
   
@@ -169,7 +169,7 @@ section p{
   color:brown;
   text-align: center;
 }
-.section p{
+.article p{
   font-size:18px;
   font-weight: 500;
   margin-top: 15px;
@@ -188,7 +188,7 @@ section p{
   
   height:250px;
 }
-.main section{
+.main article{
   
   padding: 3px;
   
@@ -203,7 +203,7 @@ section p{
   color:brown;
   text-align: center;
 }
-.section p{
+.article p{
   font-size:18px;
   font-weight: 500;
   margin-top: 15px;
@@ -234,7 +234,7 @@ section p{
     color:black;
     text-align: center;
 }
-.col2 section{
+.col2 article{
   border: 2px solid #e3e3e3;
   box-shadow: 2px 2px 5px #888888;
 }
